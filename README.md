@@ -25,8 +25,7 @@ Participants joined from across Nigeria, UK, Canada, Ghana, Germany, Australia, 
 
 - Google Classroom for live sessions and materials  
 - LMS Dashboard for structured learning paths  
-- GitHub for portfolio development  
-- Oloore AI for instant LMS support  
+- GitHub for portfolio development   
 - Weekly drop-in sessions, mentorship events, and alumni networking
 
 
