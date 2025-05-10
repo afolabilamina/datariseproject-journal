@@ -1,17 +1,43 @@
 # datariseproject-journal
-My weekly reflections, notes, and lessons from the #DataRiseProject and 10Alytics journey.
-## 🗓️ Day 1 - Data Science Onboarding
+# 🧠 Day 1 – Data Science Onboarding (10Alytics)
 
-Today marks the official beginning of my Full Stack Data Science journey.
 
-The onboarding session led by Fopefoluwa was insightful — covering not only the structure of the program, but also sharing strategies for job applications, portfolio building, and growing visibility as a data analyst.
+**Facilitator:** Fopefoluwa Aderoju  
+**Date:** May 10, 2025  
+**Theme:** Orientation, Structure & Launching the #DataRiseProject
 
-### Key Takeaways:
-- Consistency is more valuable than perfection
-- LinkedIn is your digital portfolio
-- Small wins → Real confidence
-- Apply your skills early, even before you finish learning
 
-More reflections and project updates to come each week!
+## 💡 Key Highlights
+
+- Overview of the Full Stack Data Science Program and the 90 Days of Consistency Challenge
+- Emphasis on portfolio building and GitHub visibility
+- Introduction to LMS, Google Classroom, job tracking, and career resources
+- Encouragement to start applying for jobs once confident — even if just Excel for now
+- Reminder: *“Consistency is more valuable than perfection.”*
+
+
+## 🌍 Global Community
+
+Participants joined from across Nigeria, UK, Canada, Ghana, Germany, Australia, US — all with unique backgrounds, united by the goal to break into tech via data.
+
+
+## 🧰 Tools & Platforms Introduced
+
+- Google Classroom for live sessions and materials  
+- LMS Dashboard for structured learning paths  
+- GitHub for portfolio development  
+- Oloore AI for instant LMS support  
+- Weekly drop-in sessions, mentorship events, and alumni networking
+
+
+## ✨ Personal Reflection
+
+This was more than an onboarding — it was a mindset shift.  
+The session reaffirmed why I joined this program: structure, guidance, and community support.  
+Big thanks to **Fopefoluwa Aderoju** for being present, vocal, and generous with actionable job prep advice.
+
+---
+
+> *“The point of exhaustion is close to success. Don’t give up.”*
 
 #DataRiseProject #90daysofconsistency #10Alytics #LearningJourney #HealthInformatics
